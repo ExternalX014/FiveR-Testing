@@ -138,7 +138,7 @@ function library:Window(WindowArgs)
 				BackgroundTransparency = 1,
 				ClipsDescendants = true,
 				Position = UDim2.new(0,0,0,0),
-				Image = "http://www.roblox.com/asset/?id=11116610076",
+				Image = "http://www.roblox.com/asset/?id=11117264908",
 				ImageTransparency = 0.8
 			}),
 
