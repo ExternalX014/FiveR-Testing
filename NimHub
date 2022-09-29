@@ -139,7 +139,7 @@ function library:Window(WindowArgs)
 				ClipsDescendants = true,
 				Position = UDim2.new(0,0,0,0),
 				Image = "http://www.roblox.com/asset/?id=11116610076",
-				ImageTransparency = 0.6
+				ImageTransparency = 0.8
 			}),
 
 			Utilities:Create("Frame", {
