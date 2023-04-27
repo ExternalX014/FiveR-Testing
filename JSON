@@ -1,3 +1,4 @@
-[
-	"55737949": {"Rank": "Developer"}
-]
+userids = {
+[55737949] = true, 
+}
+return userids
